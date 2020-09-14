@@ -1,0 +1,130 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "HyperToc",
+    "assotiatedMedia": {
+        "@type": "AudioObject",
+        "encodingFormat": "audio/mpeg",
+        "contentUrl": ""
+    },
+    "tocEntry": [
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_01_christmasatredbutte_montgomery_lt_64kb.mp3",
+            "utterances": [
+                "Christmas At Red Butte"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_02_heavenlychristmastree_dostoyevski_rf_64kb.mp3",
+            "utterances": [
+                "The Heavenly Christmas Tree"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_03_giftofthemagi_henry_dl_64kb.mp3",
+            "utterances": [
+                "The Gift Of The Magi"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_04_evestnicholas_wynne_rg_64kb.mp3",
+            "utterances": [
+                "The Eve of St. Nicholas"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_05_littlematchgirl_andersen_sas_64kb.mp3",
+            "utterances": [
+                "The Little Match Girl"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_06_star_kingsley_psc_64kb.mp3",
+            "utterances": [
+                "The Star"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_07_babysthings_abbott_lb_64kb.mp3",
+            "utterances": [
+                "The Baby's Things: A Story in Verse for Christmas Eve"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_08_littlegirlschristmas_lincoln_psc_64kb.mp3",
+            "utterances": [
+                "Little Girl's Christmas"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_09_stnicholas_algerjr_ccs_64kb.mp3",
+            "utterances": [
+                "St. Nicholas"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_10_christmaschapter8wilderness_kent_dw_64kb.mp3",
+            "utterances": [
+                "Christmas, Chapter Eight, of Wilderness; A Journal Of Quiet Adventure In Alaska"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_11_herbirthdaydream_king_at_64kb.mp3",
+            "utterances": [
+                "Her Birthday Dream"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_12_christmaschapter8harborjim_dw_64kb.mp3",
+            "utterances": [
+                "Christmas With Jim\u2019s Friends, Chapter Eight, of Harbor Jim Of Newfoundland"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_13_jimmyscarecrowschristmas_freeman_la_64kb.mp3",
+            "utterances": [
+                "Jimmy Scarecrow's Christmas"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_14_snowman_cooper_gb_64kb.mp3",
+            "utterances": [
+                "The Snow Man"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_15_shepherdwhodidntgo_stocking_at_64kb.mp3",
+            "utterances": [
+                "The Shepherd Who Didn't Go"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_16_grandmotherschristmas_wynne_rg_64kb.mp3",
+            "utterances": [
+                "Grandmother's Christmas Story"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_17_visitfromsaintnicholas_moore_lt_64kb.mp3",
+            "utterances": [
+                "A Visit From Saint Nicholas"
+            ]
+        }
+    ]
+}
