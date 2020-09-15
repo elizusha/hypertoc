@@ -1,0 +1,193 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "HyperToc",
+    "assotiatedMedia": {
+        "@type": "AudioObject",
+        "encodingFormat": "audio/mpeg",
+        "contentUrl": ""
+    },
+    "tocEntry": [
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_00_haynicolay_64kb.mp3",
+            "utterances": [
+                "00 - Author's Preface"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_01_haynicolay_64kb.mp3",
+            "utterances": [
+                "01 - Lineage"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_02_haynicolay_64kb.mp3",
+            "utterances": [
+                "02 - Indiana"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_03_haynicolay_64kb.mp3",
+            "utterances": [
+                "03 - Illinois in 1830"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_04_haynicolay_64kb.mp3",
+            "utterances": [
+                "04 - New Salem"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_05_haynicolay_64kb.mp3",
+            "utterances": [
+                "05 - Lincoln in the Black Hawk War"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_06_haynicolay_64kb.mp3",
+            "utterances": [
+                "06 - Surveyor and Representative"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_07_haynicolay_64kb.mp3",
+            "utterances": [
+                "07 - Legislative Experience"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_08_haynicolay_64kb.mp3",
+            "utterances": [
+                "08 - The Lincoln-Stone Protest"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_09_haynicolay_64kb.mp3",
+            "utterances": [
+                "09 - Collapse of the System"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_10_haynicolay_64kb.mp3",
+            "utterances": [
+                "10 - Early Law Practice"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_11_haynicolay_64kb.mp3",
+            "utterances": [
+                "11 - Marriage"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_12_haynicolay_64kb.mp3",
+            "utterances": [
+                "12 - The Shields Duel"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_13_haynicolay_64kb.mp3",
+            "utterances": [
+                "13 - The Campaign of 1844"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_14_haynicolay_64kb.mp3",
+            "utterances": [
+                "14 - Campaign for Congress"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_15_haynicolay_64kb.mp3",
+            "utterances": [
+                "15 - The Thirtieth Congress"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_16_haynicolay_64kb.mp3",
+            "utterances": [
+                "16 - A Fortunate Escape"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_17_haynicolay_64kb.mp3",
+            "utterances": [
+                "17 - The Circuit Lawyer"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_18_haynicolay_64kb.mp3",
+            "utterances": [
+                "18 - The Balance of Power"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_19_haynicolay_64kb.mp3",
+            "utterances": [
+                "19 - The Repeal of Missouri Compromise"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_20_haynicolay_64kb.mp3",
+            "utterances": [
+                "20 - The Drift of Politics"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_21_haynicolay_64kb.mp3",
+            "utterances": [
+                "21 - Lincoln and Trumbull"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_22_haynicolay_64kb.mp3",
+            "utterances": [
+                "22 - The Border Ruffians"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_23_haynicolay_64kb.mp3",
+            "utterances": [
+                "23 - The Bogus Laws"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_24_haynicolay_64kb.mp3",
+            "utterances": [
+                "24 - The Topeka Constitution"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "url": "http://www.archive.org/download/lincolnvol1_1305_librivox/lincolnhistoryvol1_25_haynicolay_64kb.mp3",
+            "utterances": [
+                "25 - Civil War in Kansas"
+            ]
+        }
+    ]
+}
