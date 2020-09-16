@@ -1,0 +1,806 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[David Copperfield by DICKENS, Charles]]></title>
+  <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/1411" />
+  <description><![CDATA["David Copperfield" or "The Personal History, Adventures, Experience and Observation of David Copperfield the Younger of Blunderstone Rookery" was first published in 1850. Like all except five of his works, it originally appeared in serial form. Many elements within the novel follow events in Dickens' own life, and it is probably the most autobiographical of all of his novels. It is also Dickens' "favorite child." (Summary adapted from Wikipedia)
+
+]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:type>serial</itunes:type>
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA["David Copperfield" or "The Personal History, Adventures, Experience and Observation of David Copperfield the Younger of Blunderstone Rookery" was first published in 1850. Like all except five of his works, it originally appeared in serial form. Many elements within the novel follow events in Dickens' own life, and it is probably the most autobiographical of all of his novels. It is also Dickens' "favorite child." (Summary adapted from Wikipedia)
+
+]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Preface by the Author]]></title>
+    <itunes:episode><![CDATA[0]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:03:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Am Born]]></title>
+    <itunes:episode><![CDATA[1]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_01_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:10]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_01_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Observe]]></title>
+    <itunes:episode><![CDATA[2]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_02_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:47]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_02_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Have a Change]]></title>
+    <itunes:episode><![CDATA[3]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_03_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_03_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Fall Into Disgrace]]></title>
+    <itunes:episode><![CDATA[4]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_04_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:44:19]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_04_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Am Sent Away]]></title>
+    <itunes:episode><![CDATA[5]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_05_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:46:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_05_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Enlarge My Circle of Acquaintance]]></title>
+    <itunes:episode><![CDATA[6]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_06_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:35]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_06_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My "First Half" at Salem House]]></title>
+    <itunes:episode><![CDATA[7]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_07_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_07_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My Holidays, Especially One Happy Afternoon]]></title>
+    <itunes:episode><![CDATA[8]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_08_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_08_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Have a Memorable Birthday]]></title>
+    <itunes:episode><![CDATA[9]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_09_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_09_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Become Neglected, and am Provided For]]></title>
+    <itunes:episode><![CDATA[10]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_10_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:46:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_10_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Begin Life on my Own Account, and Do Not Like It]]></title>
+    <itunes:episode><![CDATA[11]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_11_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:41:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_11_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Liking Life on my Own Account No Better, I Form a Great Resolution]]></title>
+    <itunes:episode><![CDATA[12]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_12_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:52]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_12_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Sequel of my Resolution]]></title>
+    <itunes:episode><![CDATA[13]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_13_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:44:11]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_13_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My Aunt Makes Up Her Mind About Me]]></title>
+    <itunes:episode><![CDATA[14]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_14_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_14_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Make Another Beginning]]></title>
+    <itunes:episode><![CDATA[15]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_15_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:48]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_15_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Am A New Boy in More Senses Than One]]></title>
+    <itunes:episode><![CDATA[16]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_16_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:59:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_16_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Somebody Turns Up]]></title>
+    <itunes:episode><![CDATA[17]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_17_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:07]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_17_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Retrospect]]></title>
+    <itunes:episode><![CDATA[18]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_18_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:49]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_18_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Look About Me and Make A Discovery]]></title>
+    <itunes:episode><![CDATA[19]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_19_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:32:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_19_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Steerforth's Home]]></title>
+    <itunes:episode><![CDATA[20]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_20_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:10]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_20_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Little Em'ly]]></title>
+    <itunes:episode><![CDATA[21]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_21_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:54:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_21_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Some Old Scenes, and Some New People]]></title>
+    <itunes:episode><![CDATA[22]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_22_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[01:00:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_22_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Corroborate Mr. Dick and Choose a New Profession]]></title>
+    <itunes:episode><![CDATA[23]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_23_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:33:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_23_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My First Dissipation]]></title>
+    <itunes:episode><![CDATA[24]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_24_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_24_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Good and Bad Angels]]></title>
+    <itunes:episode><![CDATA[25]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_25_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:49:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_25_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Fall Into Captivity]]></title>
+    <itunes:episode><![CDATA[26]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_26_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:41]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_26_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tommy Traddles]]></title>
+    <itunes:episode><![CDATA[27]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_27_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_27_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mr. Micawber's Gauntlet]]></title>
+    <itunes:episode><![CDATA[28]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_28_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:46:34]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_28_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Visit Steerforth at his Home Again]]></title>
+    <itunes:episode><![CDATA[29]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_29_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_29_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Loss]]></title>
+    <itunes:episode><![CDATA[30]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_30_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:36]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_30_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Greater Loss]]></title>
+    <itunes:episode><![CDATA[31]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_31_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:22]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_31_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Beginning of a Long Journey]]></title>
+    <itunes:episode><![CDATA[32]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_32_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_32_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Blissful]]></title>
+    <itunes:episode><![CDATA[33]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_33_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:40:24]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_33_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[My Aunt Astonishes Me]]></title>
+    <itunes:episode><![CDATA[34]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_34_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_34_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Depression]]></title>
+    <itunes:episode><![CDATA[35]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_35_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_35_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Enthusiasm]]></title>
+    <itunes:episode><![CDATA[36]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_36_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_36_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Little Cold Water]]></title>
+    <itunes:episode><![CDATA[37]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_37_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:39]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_37_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Dissolution of Partnership]]></title>
+    <itunes:episode><![CDATA[38]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_38_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:43:23]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_38_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Wickfield and Heep]]></title>
+    <itunes:episode><![CDATA[39]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_39_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:47:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_39_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Wanderer]]></title>
+    <itunes:episode><![CDATA[40]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_40_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:12]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_40_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Dora's Aunts]]></title>
+    <itunes:episode><![CDATA[41]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_41_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:13]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_41_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mischief]]></title>
+    <itunes:episode><![CDATA[42]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_42_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:55:25]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_42_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Another Retrospect]]></title>
+    <itunes:episode><![CDATA[43]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_43_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:45]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_43_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Our Housekeeping]]></title>
+    <itunes:episode><![CDATA[44]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_44_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:51]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_44_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mr. Dick Fulfills My Aunt's Prediction]]></title>
+    <itunes:episode><![CDATA[45]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_45_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:35:43]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_45_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Intelligence]]></title>
+    <itunes:episode><![CDATA[46]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_46_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:30:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_46_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Martha]]></title>
+    <itunes:episode><![CDATA[47]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_47_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:27]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_47_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Domestic]]></title>
+    <itunes:episode><![CDATA[48]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_48_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_48_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Am Involved in Mystery]]></title>
+    <itunes:episode><![CDATA[49]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_49_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_49_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mr. Peggotty's Dream Comes True]]></title>
+    <itunes:episode><![CDATA[50]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_50_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_50_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Beginning of a Longer Journey]]></title>
+    <itunes:episode><![CDATA[51]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_51_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:37:54]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_51_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Assist at an Explosion]]></title>
+    <itunes:episode><![CDATA[52]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_52_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:59:30]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_52_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Another Retrospect]]></title>
+    <itunes:episode><![CDATA[53]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_53_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_53_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Mr. Micawber's Transactions]]></title>
+    <itunes:episode><![CDATA[54]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_54_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:39:28]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_54_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Tempest]]></title>
+    <itunes:episode><![CDATA[55]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_55_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:28:20]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_55_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The New Wound, and the Old]]></title>
+    <itunes:episode><![CDATA[56]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_56_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_56_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[The Emigrants]]></title>
+    <itunes:episode><![CDATA[57]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_57_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:01]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_57_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Absence]]></title>
+    <itunes:episode><![CDATA[58]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_58_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:57]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_58_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Return]]></title>
+    <itunes:episode><![CDATA[59]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_59_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:34:49]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_59_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Agnes]]></title>
+    <itunes:episode><![CDATA[60]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_60_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:57]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_60_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[I Am Shown Two Interesting Penitents]]></title>
+    <itunes:episode><![CDATA[61]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_61_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:29:05]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_61_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Light Shines On My Way]]></title>
+    <itunes:episode><![CDATA[62]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_62_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:21:16]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_62_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Visitor]]></title>
+    <itunes:episode><![CDATA[63]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_63_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_63_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[A Last Retrospect]]></title>
+    <itunes:episode><![CDATA[64]]></itunes:episode>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/david-copperfield-by-charles-dickens/]]></link>
+            <enclosure url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_64_dickens_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:17]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_64_dickens_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>

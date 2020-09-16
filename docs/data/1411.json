@@ -1,0 +1,531 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "HyperToc",
+    "assotiatedMedia": {
+        "@type": "AudioObject",
+        "encodingFormat": "audio/mpeg",
+        "contentUrl": ""
+    },
+    "tocEntry": [
+        {
+            "@type": "HyperTocEntry",
+            "name": "Preface by the Author",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3",
+            "utterances": [
+                "Preface by the Author"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Am Born",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_01_dickens_64kb.mp3",
+            "utterances": [
+                "I Am Born"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Observe",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_02_dickens_64kb.mp3",
+            "utterances": [
+                "I Observe"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Have a Change",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_03_dickens_64kb.mp3",
+            "utterances": [
+                "I Have a Change"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Fall Into Disgrace",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_04_dickens_64kb.mp3",
+            "utterances": [
+                "I Fall Into Disgrace"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Am Sent Away",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_05_dickens_64kb.mp3",
+            "utterances": [
+                "I Am Sent Away"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Enlarge My Circle of Acquaintance",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_06_dickens_64kb.mp3",
+            "utterances": [
+                "I Enlarge My Circle of Acquaintance"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "My \"First Half\" at Salem House",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_07_dickens_64kb.mp3",
+            "utterances": [
+                "My \"First Half\" at Salem House"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "My Holidays, Especially One Happy Afternoon",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_08_dickens_64kb.mp3",
+            "utterances": [
+                "My Holidays, Especially One Happy Afternoon"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Have a Memorable Birthday",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_09_dickens_64kb.mp3",
+            "utterances": [
+                "I Have a Memorable Birthday"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Become Neglected, and am Provided For",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_10_dickens_64kb.mp3",
+            "utterances": [
+                "I Become Neglected, and am Provided For"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Begin Life on my Own Account, and Do Not Like It",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_11_dickens_64kb.mp3",
+            "utterances": [
+                "I Begin Life on my Own Account, and Do Not Like It"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Liking Life on my Own Account No Better, I Form a Great Resolution",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_12_dickens_64kb.mp3",
+            "utterances": [
+                "Liking Life on my Own Account No Better, I Form a Great Resolution"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The Sequel of my Resolution",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_13_dickens_64kb.mp3",
+            "utterances": [
+                "The Sequel of my Resolution"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "My Aunt Makes Up Her Mind About Me",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_14_dickens_64kb.mp3",
+            "utterances": [
+                "My Aunt Makes Up Her Mind About Me"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Make Another Beginning",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_15_dickens_64kb.mp3",
+            "utterances": [
+                "I Make Another Beginning"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Am A New Boy in More Senses Than One",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_16_dickens_64kb.mp3",
+            "utterances": [
+                "I Am A New Boy in More Senses Than One"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Somebody Turns Up",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_17_dickens_64kb.mp3",
+            "utterances": [
+                "Somebody Turns Up"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Retrospect",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_18_dickens_64kb.mp3",
+            "utterances": [
+                "A Retrospect"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Look About Me and Make A Discovery",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_19_dickens_64kb.mp3",
+            "utterances": [
+                "I Look About Me and Make A Discovery"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Steerforth's Home",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_20_dickens_64kb.mp3",
+            "utterances": [
+                "Steerforth's Home"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Little Em'ly",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_21_dickens_64kb.mp3",
+            "utterances": [
+                "Little Em'ly"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Some Old Scenes, and Some New People",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_22_dickens_64kb.mp3",
+            "utterances": [
+                "Some Old Scenes, and Some New People"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Corroborate Mr. Dick and Choose a New Profession",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_23_dickens_64kb.mp3",
+            "utterances": [
+                "I Corroborate Mr. Dick and Choose a New Profession"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "My First Dissipation",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_24_dickens_64kb.mp3",
+            "utterances": [
+                "My First Dissipation"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Good and Bad Angels",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_25_dickens_64kb.mp3",
+            "utterances": [
+                "Good and Bad Angels"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Fall Into Captivity",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_26_dickens_64kb.mp3",
+            "utterances": [
+                "I Fall Into Captivity"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Tommy Traddles",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_27_dickens_64kb.mp3",
+            "utterances": [
+                "Tommy Traddles"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Mr. Micawber's Gauntlet",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_28_dickens_64kb.mp3",
+            "utterances": [
+                "Mr. Micawber's Gauntlet"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Visit Steerforth at his Home Again",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_29_dickens_64kb.mp3",
+            "utterances": [
+                "I Visit Steerforth at his Home Again"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Loss",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_30_dickens_64kb.mp3",
+            "utterances": [
+                "A Loss"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Greater Loss",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_31_dickens_64kb.mp3",
+            "utterances": [
+                "A Greater Loss"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The Beginning of a Long Journey",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_32_dickens_64kb.mp3",
+            "utterances": [
+                "The Beginning of a Long Journey"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Blissful",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_33_dickens_64kb.mp3",
+            "utterances": [
+                "Blissful"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "My Aunt Astonishes Me",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_34_dickens_64kb.mp3",
+            "utterances": [
+                "My Aunt Astonishes Me"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Depression",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_35_dickens_64kb.mp3",
+            "utterances": [
+                "Depression"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Enthusiasm",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_36_dickens_64kb.mp3",
+            "utterances": [
+                "Enthusiasm"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Little Cold Water",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_37_dickens_64kb.mp3",
+            "utterances": [
+                "A Little Cold Water"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Dissolution of Partnership",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_38_dickens_64kb.mp3",
+            "utterances": [
+                "A Dissolution of Partnership"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Wickfield and Heep",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_39_dickens_64kb.mp3",
+            "utterances": [
+                "Wickfield and Heep"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The Wanderer",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_40_dickens_64kb.mp3",
+            "utterances": [
+                "The Wanderer"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Dora's Aunts",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_41_dickens_64kb.mp3",
+            "utterances": [
+                "Dora's Aunts"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Mischief",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_42_dickens_64kb.mp3",
+            "utterances": [
+                "Mischief"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Another Retrospect",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_43_dickens_64kb.mp3",
+            "utterances": [
+                "Another Retrospect"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Our Housekeeping",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_44_dickens_64kb.mp3",
+            "utterances": [
+                "Our Housekeeping"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Mr. Dick Fulfills My Aunt's Prediction",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_45_dickens_64kb.mp3",
+            "utterances": [
+                "Mr. Dick Fulfills My Aunt's Prediction"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Intelligence",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_46_dickens_64kb.mp3",
+            "utterances": [
+                "Intelligence"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Martha",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_47_dickens_64kb.mp3",
+            "utterances": [
+                "Martha"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Domestic",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_48_dickens_64kb.mp3",
+            "utterances": [
+                "Domestic"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Am Involved in Mystery",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_49_dickens_64kb.mp3",
+            "utterances": [
+                "I Am Involved in Mystery"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Mr. Peggotty's Dream Comes True",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_50_dickens_64kb.mp3",
+            "utterances": [
+                "Mr. Peggotty's Dream Comes True"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The Beginning of a Longer Journey",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_51_dickens_64kb.mp3",
+            "utterances": [
+                "The Beginning of a Longer Journey"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Assist at an Explosion",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_52_dickens_64kb.mp3",
+            "utterances": [
+                "I Assist at an Explosion"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Another Retrospect",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_53_dickens_64kb.mp3",
+            "utterances": [
+                "Another Retrospect"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Mr. Micawber's Transactions",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_54_dickens_64kb.mp3",
+            "utterances": [
+                "Mr. Micawber's Transactions"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Tempest",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_55_dickens_64kb.mp3",
+            "utterances": [
+                "Tempest"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The New Wound, and the Old",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_56_dickens_64kb.mp3",
+            "utterances": [
+                "The New Wound, and the Old"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "The Emigrants",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_57_dickens_64kb.mp3",
+            "utterances": [
+                "The Emigrants"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Absence",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_58_dickens_64kb.mp3",
+            "utterances": [
+                "Absence"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Return",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_59_dickens_64kb.mp3",
+            "utterances": [
+                "Return"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "Agnes",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_60_dickens_64kb.mp3",
+            "utterances": [
+                "Agnes"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "I Am Shown Two Interesting Penitents",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_61_dickens_64kb.mp3",
+            "utterances": [
+                "I Am Shown Two Interesting Penitents"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Light Shines On My Way",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_62_dickens_64kb.mp3",
+            "utterances": [
+                "A Light Shines On My Way"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Visitor",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_63_dickens_64kb.mp3",
+            "utterances": [
+                "A Visitor"
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "A Last Retrospect",
+            "url": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_64_dickens_64kb.mp3",
+            "utterances": [
+                "A Last Retrospect"
+            ]
+        }
+    ]
+}
