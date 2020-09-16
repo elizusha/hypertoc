@@ -1,17 +1,27 @@
-window.onload = (event) => {
+function load_player(data) {
     var player = document.getElementById("player");
+    var list = document.getElementById("entry_list");
 
-    var element = document.getElementById("item1");
-    element.innerHTML = "<a href=\"#\">Christmas At Red Butte</a>";
-    element.onclick = () => {
-        player.src = "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_01_christmasatredbutte_montgomery_lt_64kb.mp3";
-        player.play();
+    for (entry of data["tocEntry"]) {
+        console.log(entry["url"]);
+        var element = document.createElement("a");
+        element.setAttribute("href", "#");
+        var text = document.createTextNode(entry["name"]);
+        element.appendChild(text);
+        element.onclick = () => {
+            player.src = entry["url"];
+            console.log(entry["url"]);
+            player.play();
+        }
+        var li = document.createElement("li");
+        li.appendChild(element);
+        list.appendChild(li);
     }
+}
 
-    var element = document.getElementById("item2");
-    element.innerHTML = "<a href=\"#\">The Heavenly Christmas Tree</a>";
-    element.onclick = () => {
-        player.src = "http://www.archive.org/download/firesidechristmasstories_1312_librivox/firesidechristmas_02_heavenlychristmastree_dostoyevski_rf_64kb.mp3";
-        player.play();
-    }
+
+window.onload = (event) => {
+    fetch('../examples/1411.json')
+        .then(response => response.json())
+        .then(data => load_player(data));
 };

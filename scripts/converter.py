@@ -9,8 +9,9 @@ from typing import Any, Dict
 def convert_rss_item(item) -> Dict[str, Any]:
     return {
         "@type": "HyperTocEntry",
+        "name": item["title"],
         "url": item["links"][1]["href"],
-        "utterances": [item["title"]]   # title as utterance
+        "utterances": [item["title"]]
     }
 
 
@@ -29,9 +30,8 @@ def main():
         "@type": "HyperToc",
         "assotiatedMedia": {
             "@type": "AudioObject",
-            # rss_data["items"][0][..] (type of the first)
             "encodingFormat": "audio/mpeg",
-            "contentUrl": "",   # rss_data["channel"]["link"]
+            "contentUrl": "",
         },
         "tocEntry": [
             convert_rss_item(item)
