@@ -21,7 +21,7 @@ function load_player(data) {
 
 
 window.onload = (event) => {
-    fetch('../examples/1411.json')
+    fetch('./examples/1411.json')
         .then(response => response.json())
         .then(data => load_player(data));
 };
