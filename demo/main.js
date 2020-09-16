@@ -8,9 +8,9 @@ function load_player(data) {
         element.setAttribute("href", "#");
         var text = document.createTextNode(entry["name"]);
         element.appendChild(text);
+        var url = entry["url"];
         element.onclick = () => {
-            player.src = entry["url"];
-            console.log(entry["url"]);
+            player.src = url;
             player.play();
         }
         var li = document.createElement("li");
