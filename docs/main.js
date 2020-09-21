@@ -1,4 +1,5 @@
 function load_player(data) {
+    var count = 0;
     var player = document.getElementById("player");
     var list = document.getElementById("entry_list");
     list.innerHTML = "";
@@ -9,15 +10,24 @@ function load_player(data) {
         element.appendChild(text);
         let url = entry["url"];
         let start_offset = 0;
+        let end_offset = 10000;
         if (!("url" in entry)) {
             url = data["assotiatedMedia"]["contentUrl"];
             start_offset = entry["startOffset"];
             end_offset = entry["endOffset"];
+            console.log(end_offset)
         }
         element.onclick = () => {
+            let count_state = ++count;
             player.src = url;
             player.currentTime = start_offset;
-            player.play();
+            player.play().then(() => {
+                setTimeout(function () {
+                    if (count_state == count) {
+                        player.pause();
+                    }
+                }, (end_offset - start_offset + 1) * 1000);
+            });
         }
         var li = document.createElement("li");
         li.appendChild(element);
@@ -32,8 +42,8 @@ window.onload = (event) => {
         var source_file = event.target.value;
         if (source_file != "") {
             fetch(source_file)
-            .then(response => response.json())
-            .then(data => load_player(data));
+                .then(response => response.json())
+                .then(data => load_player(data));
         }
     };
 };
