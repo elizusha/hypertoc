@@ -1,55 +1,68 @@
+class TocEntry {
+    constructor(data, entry) {
+        this.url = entry["url"] || data["assotiatedMedia"]["contentUrl"];
+        this.startOffset = entry["startOffset"] || 0;
+        this.endOffset = entry["endOffset"] || null;
+        this.name = entry["name"];
+    }
+}
+
 class TocPlayer {
     constructor(data) {
-        var count = 0;
+        this.count = 0;
         this.trackNumber = 0;
         this.player = document.getElementById("player");
-        var list = document.getElementById("entry_list");
-        list.innerHTML = "";
-        this.tracks = [];
-        var index = 0;
-        for (var entry of data["tocEntry"]) {
-            var element = document.createElement("a");
-            element.setAttribute("href", "#");
-            var text = document.createTextNode(entry["name"]);
-            element.appendChild(text);
-            let url = entry["url"];
-            let start_offset = 0;
-            let end_offset = 10000;
-            if (!("url" in entry)) {
-                url = data["assotiatedMedia"]["contentUrl"];
-                start_offset = entry["startOffset"];
-                end_offset = entry["endOffset"];
-            }
-            let currentTrackNumber = index;
-            var func = () => {
-                this.trackNumber = currentTrackNumber;
-                let count_state = ++count;
-                player.src = url;
-                player.currentTime = start_offset;
-                player.play().then(() => {
-                    setTimeout(function () {
-                        if (count_state == count) {
-                            player.pause();
-                        }
-                    }, (end_offset - start_offset + 1) * 1000);
-                });
-            }
-            this.tracks.push(func);
-            element.onclick = func;
-            index++;
-            var li = document.createElement("li");
-            li.appendChild(element);
-            list.appendChild(li);
-        }
+        this.entries = this.createEntries(data);
+        this.createHtml(this.entries);
     }
 
     playTrackByNumber(number) {
-        this.tracks[number]();
+        var entry = this.entries[number];
+        this.trackNumber = number;
+        let countState = ++this.count;
+        this.player.src = entry.url;
+        this.player.currentTime = entry.startOffset;
+        this.player.play().then(() => {
+            if (this.endOffset !== null) {
+                setTimeout(function () {
+                    if (countState == this.count) {
+                        player.pause();
+                    }
+                }, (entry.endOffset - entry.startOffset + 1) * 1000);
+            }
+        });
     }
 
     next() {
-        if (this.trackNumber + 1 < this.tracks.length) {
-            this.tracks[this.trackNumber + 1]();
+        if (this.trackNumber + 1 < this.entries.length) {
+            this.playTrackByNumber(this.trackNumber + 1);
+        }
+    }
+
+    createEntries(data) {
+        var entries = [];
+        for (var entry of data["tocEntry"]) {
+            entries.push(new TocEntry(data, entry));
+        }
+        return entries;
+    }
+
+    createHtml(entries) {
+        var list = document.getElementById("entry_list");
+        list.innerHTML = "";
+
+        for (let i = 0; i < entries.length; i++) {
+            var element = document.createElement("a");
+            element.setAttribute("href", "#");
+            var text = document.createTextNode(entries[i].name);
+            element.appendChild(text);
+
+            element.onclick = () => {
+                this.playTrackByNumber(i);
+            }
+            var li = document.createElement("li");
+            li.appendChild(element);
+            list.appendChild(li);
         }
     }
 }
@@ -72,11 +85,10 @@ window.onload = (event) => {
     button.onclick = () => {
         tocPlayer.next();
     };
-    //recognition.start();
+    recognition.start();
     recognition.onresult = function (event) {
         if (event.results.length > 0) {
             q.value = event.results[0][0].transcript;
-            console.log(event.results[0][0].transcript);
         }
     }
 };
