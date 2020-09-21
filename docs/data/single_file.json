@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "HyperToc",
+    "assotiatedMedia": {
+        "@type": "AudioObject",
+        "encodingFormat": "audio/mpeg",
+        "contentUrl": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3"
+    },
+    "tocEntry": [
+        {
+            "@type": "HyperTocEntry",
+            "name": "0 sec.",
+            "startOffset": 0,
+            "endOffset": 9,
+            "utterances": [
+                "0 sec."
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "10 sec.",
+            "startOffset": 10,
+            "endOffset": 49,
+            "utterances": [
+                "10 sec."
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "50 sec.",
+            "startOffset": 50,
+            "endOffset": 99,
+            "utterances": [
+                "50 sec."
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "100 sec.",
+            "startOffset": 100,
+            "endOffset": 199,
+            "utterances": [
+                "100 sec."
+            ]
+        },
+        {
+            "@type": "HyperTocEntry",
+            "name": "200 sec.",
+            "startOffset": 200,
+            "endOffset": 231,
+            "utterances": [
+                "200 sec."
+            ]
+        }
+    ]
+}
