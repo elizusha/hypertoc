@@ -83,12 +83,15 @@ window.onload = (event) => {
     var recognition = new webkitSpeechRecognition();
     var button = document.getElementById("rec_button");
     button.onclick = () => {
-        tocPlayer.next();
+        recognition.start();
     };
-    recognition.start();
     recognition.onresult = function (event) {
         if (event.results.length > 0) {
-            q.value = event.results[0][0].transcript;
+            var result = event.results[0][0].transcript;
+            q.value = result;
+            if (result == "next") {
+                tocPlayer.next();
+            }
         }
     }
 };
