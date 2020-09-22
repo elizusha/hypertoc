@@ -88,7 +88,7 @@ window.onload = (event) => {
     recognition.onresult = function (event) {
         if (event.results.length > 0) {
             var result = event.results[0][0].transcript;
-            q.value = result;
+            rec_result.value = result;
             if (result == "next") {
                 tocPlayer.next();
             }

@@ -30,6 +30,14 @@ li {
 
 }
 div {
-    padding: 2%;
-    padding-left: 5%;
+    margin: 3%;
+    margin-left: 5%;
+}
+
+select {
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
 }
