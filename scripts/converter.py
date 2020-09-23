@@ -28,7 +28,7 @@ def main():
     json_data: Dict[str, Any] = {
         "@context": "https://schema.org/",
         "@type": "HyperToc",
-        "assotiatedMedia": {
+        "associatedMedia": {
             "@type": "AudioObject",
             "encodingFormat": "audio/mpeg",
             "contentUrl": "",

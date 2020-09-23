@@ -1,7 +1,7 @@
 {
     "@context": "https://schema.org/",
     "@type": "HyperToc",
-    "assotiatedMedia": {
+    "associatedMedia": {
         "@type": "AudioObject",
         "encodingFormat": "audio/mpeg",
         "contentUrl": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/3/384d9560-c59a-473f-aaa1-894650662d65/episodes/7/7b06e8a1-86f3-449d-8f89-23717aee23cd/7b06e8a1-86f3-449d-8f89-23717aee23cd.mp3"

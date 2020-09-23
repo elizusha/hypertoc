@@ -1,0 +1,43 @@
+figure {
+    height: 50%;
+    width: 30%;
+    background-color: lightgray;
+    display: flex;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid lightslategray;
+    margin-right: 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px ;
+}
+
+ul {
+    display: inline-block;
+    height: 50%;
+    width: 30%;
+    overflow-y: scroll;
+    background-color: aliceblue;
+    border: 1px solid lightslategray;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px ;
+}
+li {
+    margin: 10px;
+    border: 1px solid lightslategray;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+div {
+    margin: 3%;
+    margin-left: 5%;
+}
+
+select {
+    padding: 10px;
+}
+
+input {
+    padding: 10px;
+}

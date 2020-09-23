@@ -1,7 +1,7 @@
 {
     "@context": "https://schema.org/",
     "@type": "HyperToc",
-    "assotiatedMedia": {
+    "associatedMedia": {
         "@type": "AudioObject",
         "encodingFormat": "audio/mpeg",
         "contentUrl": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3"

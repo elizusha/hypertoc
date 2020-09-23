@@ -1,6 +1,6 @@
 class TocEntry {
     constructor(data, entry) {
-        this.url = entry["url"] || data["assotiatedMedia"]["contentUrl"];
+        this.url = entry["url"] || data["associatedMedia"]["contentUrl"];
         this.startOffset = entry["startOffset"] || 0;
         this.endOffset = entry["endOffset"] || null;
         this.name = entry["name"];
@@ -8,12 +8,17 @@ class TocEntry {
 }
 
 class TocPlayer {
-    constructor(data) {
+    constructor(entries) {
         this.count = 0;
         this.trackNumber = 0;
         this.player = document.getElementById("player");
-        this.entries = this.createEntries(data);
+        this.entries = entries;
         this.createHtml(this.entries);
+    }
+
+    static async create(data) {
+      var entries = await TocPlayer.createEntries(data);
+      return new TocPlayer(entries);
     }
 
     playTrackByNumber(number) {
@@ -39,7 +44,7 @@ class TocPlayer {
         }
     }
 
-    createEntries(data) {
+    static async createEntries(data) {
         var entries = [];
         for (var entry of data["tocEntry"]) {
             entries.push(new TocEntry(data, entry));
@@ -76,7 +81,8 @@ window.onload = (event) => {
         if (source_file != "") {
             fetch(source_file)
                 .then(response => response.json())
-                .then(data => { tocPlayer = new TocPlayer(data); });
+                .then(data => TocPlayer.create(data))
+                .then(player => { tocPlayer = player; });
         }
     };
 
@@ -95,4 +101,3 @@ window.onload = (event) => {
         }
     }
 };
-
