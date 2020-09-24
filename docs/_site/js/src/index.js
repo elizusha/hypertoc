@@ -56,30 +56,24 @@ class TocPlayer {
     var tocEntryQuads = quadStore.getQuads(
       n3.DataFactory.namedNode('http://example.org/dummy'),
       n3.DataFactory.namedNode("http://schema.org/tocEntry"));
-
     var entries = [];
     for (var quad of tocEntryQuads) {
       let url = this.getQuad(
         quadStore,
         quad.object,
-        n3.DataFactory.namedNode("http://schema.org/url"),
-        null) || this.getContentUrl(quadStore);
+        "http://schema.org/url") || this.getContentUrl(quadStore);
       let startOffset = this.getQuad(
         quadStore,
         quad.object,
-        n3.DataFactory.namedNode("http://schema.org/startOffset"),
-        null) || 0;
+        "http://schema.org/startOffset") || 0;
       let endOffset = this.getQuad(
         quadStore,
         quad.object,
-        n3.DataFactory.namedNode("http://schema.org/endOffset"),
-        null) || null;
+        "http://schema.org/endOffset") || null;
       let name = this.getQuad(
         quadStore,
         quad.object,
-        n3.DataFactory.namedNode("http://schema.org/name"),
-        null);
-      console.log(url, startOffset, endOffset, name);
+        "http://schema.org/name");
       entries.push(new TocEntry(url, startOffset, endOffset, name));
     }
     return entries;
@@ -93,16 +87,17 @@ class TocPlayer {
     return this.getQuad(
       quadStore,
       media.object,
-      n3.DataFactory.namedNode("http://schema.org/contentUrl"),
-      null);
+      "http://schema.org/contentUrl");
   }
 
-  static getQuad(quadStore, subj, pred, obj) {
-    var quadList = quadStore.getQuads(subj,pred, obj);
-      if (quadList.length == 0) {
-        return null;
-      }
-      return quadList[0].object.value;
+  static getQuad(quadStore, subject, predicateString) {
+    var quadList = quadStore.getQuads(
+      subject,
+      n3.DataFactory.namedNode(predicateString));
+    if (quadList.length == 0) {
+      return null;
+    }
+    return quadList[0].object.value;
   }
 
   createHtml(entries) {
