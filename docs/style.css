@@ -1,33 +1,47 @@
+h1 {
+  background-color: aliceblue;
+  color: gray;
+  padding: 10px;
+  border-top: 5px solid lightgray;
+  border-bottom: 5px solid lightgray;
+  text-align:center;
+}
 figure {
     height: 50%;
-    width: 30%;
+    width: 33%;
     background-color: lightgray;
     display: flex;
     float: left;
     align-items: center;
     justify-content: center;
-    border: 1px solid lightslategray;
+    border: 5px solid lightgray;
     margin-right: 0px;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px ;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px ;
+    padding: 10px;
 }
 
 ul {
+    list-style: none;
     display: inline-block;
+    padding: 10px;
     height: 50%;
-    width: 30%;
+    width: 35%;
     overflow-y: scroll;
     background-color: aliceblue;
-    border: 1px solid lightslategray;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px ;
+    border: 5px solid lightgray;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px ;
 }
 li {
-    margin: 10px;
-    border: 1px solid lightslategray;
-    padding: 10px;
-    border-radius: 10px;
-
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 100px;
+  width: 98%;
+  background-color: lightgray;
+  border: 1px solid lightgray;
 }
 div {
     margin: 3%;
@@ -35,9 +49,14 @@ div {
 }
 
 select {
-    padding: 10px;
+    width: 30%;
+    background-color: aliceblue;
+    border: 5px solid lightgray;
+    padding: 15px;
 }
 
 input {
-    padding: 10px;
+    padding: 15px;
+    background-color: aliceblue;
+    border: 5px solid lightgray;
 }

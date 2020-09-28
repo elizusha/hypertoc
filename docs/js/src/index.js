@@ -6,11 +6,6 @@ class TocEntry {
     this.startOffset = startOffset;
     this.endOffset = endOffset;
     this.name = name;
-
-    // this.url = entry["url"] || data["associatedMedia"]["contentUrl"];
-    // this.startOffset = entry["startOffset"] || 0;
-    // this.endOffset = entry["endOffset"] || null;
-    // this.name = entry["name"];
   }
 }
 
@@ -82,8 +77,7 @@ class TocPlayer {
   static getContentUrl(quadStore) {
     let media = quadStore.getQuads(
       n3.DataFactory.namedNode('http://example.org/dummy'),
-      n3.DataFactory.namedNode("http://schema.org/associatedMedia"),
-      null);
+      n3.DataFactory.namedNode("http://schema.org/associatedMedia"));
     return this.getQuad(
       quadStore,
       media.object,
@@ -106,15 +100,17 @@ class TocPlayer {
 
     for (let i = 0; i < entries.length; i++) {
       var element = document.createElement("a");
-      element.setAttribute("href", "#");
       var text = document.createTextNode(entries[i].name);
       element.appendChild(text);
+      var button = document.createElement("button");
+      button.appendChild(element);
 
-      element.onclick = () => {
+      button.onclick = () => {
         this.playTrackByNumber(i);
       }
+
       var li = document.createElement("li");
-      li.appendChild(element);
+      li.appendChild(button);
       list.appendChild(li);
     }
   }
