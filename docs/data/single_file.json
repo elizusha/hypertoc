@@ -4,52 +4,51 @@
     "associatedMedia": {
         "@type": "AudioObject",
         "encodingFormat": "audio/mpeg",
-        "contentUrl": "http://www.archive.org/download/David_Copperfield_0805_librivox2/davidcopperfield_00_dickens_64kb.mp3"
+        "contentUrl": "https://media.fireside.fm/file/fireside-audio/podcasts/audio/3/384d9560-c59a-473f-aaa1-894650662d65/episodes/7/7b06e8a1-86f3-449d-8f89-23717aee23cd/7b06e8a1-86f3-449d-8f89-23717aee23cd.mp3"
     },
     "tocEntry": [
         {
             "@type": "HyperTocEntry",
-            "name": "0 sec.",
-            "startOffset": 0,
-            "endOffset": 9,
+            "name": "Поехали!",
+            "startOffset": 23,
+            "endOffset": 108,
             "utterances": [
-                "0 sec."
+                "Поехали!"
             ]
         },
         {
             "@type": "HyperTocEntry",
-            "name": "10 sec.",
-            "startOffset": 10,
-            "endOffset": 49,
+            "name": "Новости игровой индустрии.",
+            "startOffset": 109,
+            "endOffset": 2789,
             "utterances": [
-                "10 sec."
+                "Новости игровой индустрии."
             ]
         },
         {
             "@type": "HyperTocEntry",
-            "name": "50 sec.",
-            "startOffset": 50,
-            "endOffset": 99,
+            "name": "Мы поиграли. Paper Mario: The Origami King.",
+            "startOffset": 2790,
+            "endOffset": 3715,
             "utterances": [
-                "50 sec."
+                "Мы поиграли. Paper Mario: The Origami King."
             ]
         },
         {
             "@type": "HyperTocEntry",
-            "name": "100 sec.",
-            "startOffset": 100,
-            "endOffset": 199,
+            "name": "Новинки и скидочки.",
+            "startOffset": 3716,
+            "endOffset": 4642,
             "utterances": [
-                "100 sec."
+                "Новинки и скидочки."
             ]
         },
         {
             "@type": "HyperTocEntry",
-            "name": "200 sec.",
-            "startOffset": 200,
-            "endOffset": 231,
+            "name": "Прощаемся.",
+            "startOffset": 4643,
             "utterances": [
-                "200 sec."
+                "Прощаемся."
             ]
         }
     ]
