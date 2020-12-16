@@ -13,6 +13,7 @@
 // limitations under the License.
 
 const n3 = require('n3');
+const schemarama = require('schemarama')
 
 class TocEntry {
   constructor(url, startOffset, endOffset, name) {
@@ -63,7 +64,7 @@ class TocPlayer {
   static async createEntries(data) {
     var quadStore = await schemarama.parseJsonLd(JSON.stringify(data), "http://example.org/dummy");
     var tocEntryQuads = quadStore.getQuads(
-      n3.DataFactory.namedNode('http://example.org/dummy'),
+      null,
       n3.DataFactory.namedNode("http://schema.org/tocEntry"));
     var entries = [];
     for (var quad of tocEntryQuads) {
